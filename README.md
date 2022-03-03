@@ -59,3 +59,6 @@ write l s<br>
   outputs string s, uses location l cell as placeholder. <br>
 cut a b<br>
   adds the value from cell a to cell b, sets cell a value to zero. <br>
+sn1zp d<br>
+  if the current cell pointed to is equal to -1, sets to zero. <br>
+  suggested use for subt comparison. <br>
