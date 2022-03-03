@@ -5,7 +5,7 @@ The following is a list of currently supported instructions;
 
 Currently supported instructions: <br>
 copy a b d<br>
-  replaces location b's value with the value found at location a, <br>
+  adds to location b's value with the value found at location a, <br>
   location d used as placeholder<br>
 mvp l<br>
   moves the system pointer from its current position to location l. <br>
