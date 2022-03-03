@@ -1,7 +1,7 @@
 # ASM-BF-COMPILER
 
 ASM-BF is a program designed to read input from an interface found in an html file, and convert it to a program able to be run in the BrainF*** programming language. <br>
-The following is a list of currently supported instructions; 
+The following is a list of currently supported instructions; Note that there exist multiple unlisted commands, such as SPACEp, NEWLINE l, etc. 
 
 Currently supported instructions: <br>
 copy a b d<br>
