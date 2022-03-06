@@ -62,3 +62,6 @@ cut a b<br>
 sn1zp d<br>
   if the current cell pointed to is equal to -1, sets to zero. <br>
   suggested use for subt comparison. <br>
+mult a b o d<br>
+  adds the product of a and b to o, uses d as placeholder<br>
+  sets a to 0 by end of operation, value of b is preserved. <br>
