@@ -65,3 +65,7 @@ sn1zp d<br>
 mult a b o d<br>
   adds the product of a and b to o, uses d as placeholder<br>
   sets a to 0 by end of operation, value of b is preserved. <br>
+# (comment)<br>
+  makes no change to execution, works as a comment. <br>
+MARK<br>
+  makes no change to execution, adds MARK to brainf code. <br>
